@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hazazihadi
-- 👀 I’m interested in AI/ML/Natural Language Processing/Computer Vision/DeepLearning
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on AI
+- 👀 I’m interested in AI/ML/Natural Language Processing/Computer Vision/DeepLearning/Creative Coding
 - 📫 How to reach me hazazihadi@gmail.com
 
 <!---
